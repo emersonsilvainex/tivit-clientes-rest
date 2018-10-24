@@ -1,0 +1,11 @@
+//Adiçao de Clientes
+db.clientes.insert({cpf:"111.111.111-11", nome:"Emerson"});
+db.clientes.insert({cpf:"222.222.222-22", nome:"Ana"});
+db.clientes.insert({cpf:"333.333.333-33", nome:"Isadora"});
+db.clientes.insert({cpf:"444.444.444-44", nome:"Fabio"});
+db.clientes.insert({cpf:"555.555.555-55", nome:"Maria"});
+db.clientes.insert({cpf:"666.666.666-66", nome:"Manoel"});
+db.clientes.insert({cpf:"777.777.777-77", nome:"Jair"});
+db.clientes.insert({cpf:"888.888.888-88", nome:"Elaina"});
+db.clientes.insert({cpf:"999.999.999-99", nome:"Eduardo"});
+db.clientes.insert({cpf:"000.000.000-00", nome:"Adriana"});
